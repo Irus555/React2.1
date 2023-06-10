@@ -104,3 +104,4 @@ export const Posts = () => {
     </div>
   )
 }
+
